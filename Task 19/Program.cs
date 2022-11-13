@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Введите пятизначное число");
 int num = int.Parse(Console.ReadLine());
-  
+
 void Palyndrome()
 {
      string forCheck = num.ToString(); // преобразуем в строку для проверки количества символов
